@@ -11,14 +11,13 @@ hydra-colorlog
 hydra-optuna-sweeper
 
 # --------- loggers --------- #
-wandb
 
 # --------- others --------- #
 rootutils       # standardizing the project root setup
 pre-commit      # hooks for applying linters on commit
 rich            # beautiful text formatting in terminal
 pytest          # tests
-nvitop
+
 
 # --------- project core --------- #
 numpy<2.0.0  # for compatibility with Open3D 0.18.0
@@ -28,9 +27,6 @@ open3d
 einops
 deepspeed
 gradio
-matplotlib
-tqdm
-jupyterlab
 opencv-python
 viser
 pillow_heif
