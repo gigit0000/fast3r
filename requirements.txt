@@ -32,6 +32,5 @@ pillow_heif
 scikit-image
 scikit-learn
 scipy
-seaborn
 pyglet<2
 huggingface-hub[torch]>=0.22
