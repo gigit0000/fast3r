@@ -29,7 +29,6 @@ deepspeed
 opencv-python
 viser
 pillow_heif
-plotly
 scikit-image
 scikit-learn
 scipy
