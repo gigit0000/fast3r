@@ -26,7 +26,6 @@ roma
 open3d
 einops
 deepspeed
-gradio
 opencv-python
 viser
 pillow_heif
