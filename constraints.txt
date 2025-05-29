@@ -1,0 +1,13 @@
+ipykernel==0
+ipython==0
+ipywidgets==0
+jupyter-client==0
+jupyter-core==0
+jupyter-events==0
+jupyter-lsp==0
+jupyter-server==0
+jupyter-server-terminals==0
+jupyterlab==0
+jupyterlab-pygments==0
+jupyterlab-server==0
+jupyterlab_widgets==0
