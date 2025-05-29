@@ -14,7 +14,7 @@ setup(
     author_email="jianingy@umich.edu",
     url="https://fast3r-3d.github.io/",
     packages=find_packages(
-        include=["fast3r*"],
+        include=["fast3r", "fast3r.*"],
         exclude=["fast3r.croco.models.curope"]
     )
 )
