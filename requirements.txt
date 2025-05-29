@@ -2,13 +2,9 @@
 lightning>=2.5.0
 lightning-bolts
 lightning-utilities
-torchmetrics
-torchinfo
 
 # --------- hydra --------- #
-hydra-core
-hydra-colorlog
-hydra-optuna-sweeper
+
 
 # --------- loggers --------- #
 
@@ -20,16 +16,11 @@ pytest          # tests
 
 
 # --------- project core --------- #
-numpy<2.0.0  # for compatibility with Open3D 0.18.0
-trimesh
+
 roma
 einops
 deepspeed
-opencv-python
-viser
-pillow_heif
-scikit-image
-scikit-learn
-scipy
+
+
 pyglet<2
 huggingface-hub[torch]>=0.22
