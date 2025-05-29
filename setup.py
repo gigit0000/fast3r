@@ -15,6 +15,6 @@ setup(
     url="https://fast3r-3d.github.io/",
     packages=find_packages(
         include=["fast3r*"],
-        exclude=["fast3r.croco.models.curope*"]
+        exclude=["fast3r.croco.models.curope"]
     )
 )
