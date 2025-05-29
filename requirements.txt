@@ -23,7 +23,6 @@ pytest          # tests
 numpy<2.0.0  # for compatibility with Open3D 0.18.0
 trimesh
 roma
-open3d
 einops
 deepspeed
 opencv-python
